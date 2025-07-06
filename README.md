@@ -100,13 +100,15 @@ Performed the following data cleaning steps:
 
 📁 dubai-housing-dashboard/
 ├── 📁 data/
-│   └── housing_price_dataset.csv
+│ └── housing_price_dataset.csv
 ├── 📁 screenshots/
-│   └── page 1 - housing analytics.png
-│   └── page 2 - executive summary.png
-├── DUBAI HOUSING DASHBOARD Insights.docx
-├── DubaiHousingPrices.pbix
-└── README.md
+│ ├── page 1 - housing analytics.png
+│ └── page 2 - executive summary.png
+├── 📄 DUBAI HOUSING DASHBOARD Insights.docx
+├── 📄 DubaiHousingPrices.pbix
+└── 📄 README.md
+
+---
 
 ## 🛠 Tools Used
 
