@@ -98,6 +98,7 @@ Performed the following data cleaning steps:
 
 ## 📁 Project Structure
 
+<pre>
 dubai-housing-dashboard/
 ├── data/
 │ └── housing_price_dataset.csv
@@ -107,6 +108,7 @@ dubai-housing-dashboard/
 ├── DUBAI HOUSING DASHBOARD Insights.docx
 ├── DubaiHousingPrices.pbix
 └── README.md
+</pre>
 
 ---
 
