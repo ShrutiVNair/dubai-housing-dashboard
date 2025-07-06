@@ -97,17 +97,9 @@ Performed the following data cleaning steps:
 ---
 
 ## 📁 Project Structure
-'''
-📁 dubai-housing-dashboard/
-├── 📁 data/
-│ └── housing_price_dataset.csv
-├── 📁 screenshots/
-│ ├── page 1 - housing analytics.png
-│ └── page 2 - executive summary.png
-├── 📄 DUBAI HOUSING DASHBOARD Insights.docx
-├── 📄 DubaiHousingPrices.pbix
-└── 📄 README.md
-'''
+
+<pre> ## 📁 Project Structure ``` dubai-housing-dashboard/ ├── data/ │ └── housing_price_dataset.csv ├── screenshots/ │ ├── page 1 - housing analytics.png │ └── page 2 - executive summary.png ├── DUBAI HOUSING DASHBOARD Insights.docx ├── DubaiHousingPrices.pbix └── README.md ``` </pre>
+
 ---
 
 ## 🛠 Tools Used
