@@ -97,7 +97,7 @@ Performed the following data cleaning steps:
 ---
 
 ## 📁 Project Structure
-
+'''
 📁 dubai-housing-dashboard/
 ├── 📁 data/
 │ └── housing_price_dataset.csv
@@ -107,7 +107,7 @@ Performed the following data cleaning steps:
 ├── 📄 DUBAI HOUSING DASHBOARD Insights.docx
 ├── 📄 DubaiHousingPrices.pbix
 └── 📄 README.md
-
+'''
 ---
 
 ## 🛠 Tools Used
